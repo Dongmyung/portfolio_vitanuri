@@ -18,11 +18,11 @@
 ### 번들상품등록
 <img width="1000" alt="번들상품등록" src="https://raw.githubusercontent.com/Dongmyung/portfolio_vitanuri/main/screenshot/번들상품등록.png">
 
-### 상품목록
-<img width="1000" alt="상품목록" src="https://raw.githubusercontent.com/Dongmyung/portfolio_vitanuri/main/screenshot/상품목록.png">
-
 ### 상품상세
 <img width="1000" alt="상품상세" src="https://raw.githubusercontent.com/Dongmyung/portfolio_vitanuri/main/screenshot/상품상세.png">
+
+### 상품목록
+<img width="1000" alt="상품목록" src="https://raw.githubusercontent.com/Dongmyung/portfolio_vitanuri/main/screenshot/상품목록.png">
 
 ### 주문목록
 <img width="1000" alt="주문목록" src="https://raw.githubusercontent.com/Dongmyung/portfolio_vitanuri/main/screenshot/주문목록.png">
